@@ -1,1 +1,1 @@
-Please check readme.pdf
+Please check Arduino Documentation.pdf
